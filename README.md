@@ -15,7 +15,7 @@ Copy code
 git clone https://github.com/yourusername/digital-forensic-software.git
 Install dependencies: (Include specific instructions for setting up the environment or dependencies, such as Python libraries, databases, etc.)
 
-Run the application: (Provide commands or steps to run the software.)
+Run the application using .exe file
 
 Usage
 Creating a New Case:
